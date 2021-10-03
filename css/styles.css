@@ -1,0 +1,31 @@
+body {
+    background-color: #1b83cd;
+    color: #fff;
+    font-family: 'Source Code Pro', sans-serif;
+  }
+
+.container {
+    width: 960px;
+    margin: 0 auto 0 auto;
+  }
+
+.landing {
+    font-size: 7em;
+    
+}
+
+.landing p {
+    margin-bottom: 0;
+}
+
+.links {
+    margin: 1em auto 0 2em;
+    border-left: solid 2px #fff;
+    padding-left: 0.5em;
+    font-size: 2em;
+}
+
+.links a:visited, .links a:link {
+    color: #fff;
+    text-decoration: none;
+}
